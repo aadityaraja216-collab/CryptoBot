@@ -1,0 +1,272 @@
+{"ts": 1786910796.2384322, "event": "close", "ticker": "KXBTC15M-TEST-UP", "reason": "take_profit", "exit_price_cents": 60, "pnl_cents": 100}
+{"ts": 1786910831.2957819, "event": "close", "ticker": "KXBTC15M-TEST-UP", "reason": "take_profit", "exit_price_cents": 60, "pnl_cents": 100}
+{"ts": 1786994492.296661, "event": "open", "ticker": "KXBTC15M-26AUG171530-30", "side": "no", "model_prob": 0.5013637024400803, "market_prob": 0.44, "edge": 0.061363702440080325, "price_cents": 45, "count": 5}
+{"ts": 1786994497.8971303, "event": "close", "ticker": "KXBTC15M-26AUG171530-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -225}
+{"ts": 1786994497.8991754, "event": "open", "ticker": "KXBTC15M-26AUG171530-30", "side": "no", "model_prob": 0.5013712894934355, "market_prob": 0.44, "edge": 0.061371289493435455, "price_cents": 45, "count": 5}
+{"ts": 1786994503.5739505, "event": "close", "ticker": "KXBTC15M-26AUG171530-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -225}
+{"ts": 1786994503.5760124, "event": "open", "ticker": "KXBTC15M-26AUG171530-30", "side": "no", "model_prob": 0.5013791092227646, "market_prob": 0.44, "edge": 0.06137910922276463, "price_cents": 45, "count": 5}
+{"ts": 1786994509.254394, "event": "close", "ticker": "KXBTC15M-26AUG171530-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -225}
+{"ts": 1786995006.305373, "event": "open", "ticker": "KXBTC15M-26AUG171545-45", "side": "yes", "model_prob": 0.4631088333507978, "market_prob": 0.0, "edge": 0.4631088333507978, "price_cents": 1, "count": 5}
+{"ts": 1786995012.2247264, "event": "close", "ticker": "KXBTC15M-26AUG171545-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995012.2288318, "event": "open", "ticker": "KXBTC15M-26AUG171545-45", "side": "yes", "model_prob": 0.46261270842155783, "market_prob": 0.0, "edge": 0.46261270842155783, "price_cents": 1, "count": 5}
+{"ts": 1786995018.1416216, "event": "close", "ticker": "KXBTC15M-26AUG171545-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995018.143716, "event": "open", "ticker": "KXBTC15M-26AUG171545-45", "side": "yes", "model_prob": 0.3755853006323454, "market_prob": 0.0, "edge": 0.3755853006323454, "price_cents": 1, "count": 5}
+{"ts": 1786995024.0775626, "event": "close", "ticker": "KXBTC15M-26AUG171545-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995024.0807786, "event": "open", "ticker": "KXBTC15M-26AUG171545-45", "side": "yes", "model_prob": 0.3796753648735168, "market_prob": 0.0, "edge": 0.3796753648735168, "price_cents": 1, "count": 5}
+{"ts": 1786995030.0089893, "event": "close", "ticker": "KXBTC15M-26AUG171545-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995331.3959777, "event": "open", "ticker": "KXBTC15M-26AUG171545-45", "side": "no", "model_prob": 0.911262620949748, "market_prob": 0.85, "edge": 0.06126262094974799, "price_cents": 86, "count": 5}
+{"ts": 1786995892.6222608, "event": "close", "ticker": "KXBTC15M-26AUG171545-45", "reason": "time_exit", "exit_price_cents": 57, "pnl_cents": -145}
+{"ts": 1786995904.4546893, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.35194291594436233, "market_prob": 0.0, "edge": 0.35194291594436233, "price_cents": 1, "count": 5}
+{"ts": 1786995910.395683, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995910.3979604, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.3972438292569274, "market_prob": 0.0, "edge": 0.3972438292569274, "price_cents": 1, "count": 5}
+{"ts": 1786995916.298998, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995916.3017502, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.3969088738013824, "market_prob": 0.0, "edge": 0.3969088738013824, "price_cents": 1, "count": 5}
+{"ts": 1786995922.3131897, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995922.316862, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.4028736406671497, "market_prob": 0.0, "edge": 0.4028736406671497, "price_cents": 1, "count": 5}
+{"ts": 1786995928.2233472, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995928.2265368, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.4179732105902476, "market_prob": 0.0, "edge": 0.4179732105902476, "price_cents": 1, "count": 5}
+{"ts": 1786995934.1295981, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995934.1328552, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.41741847116973413, "market_prob": 0.0, "edge": 0.41741847116973413, "price_cents": 1, "count": 5}
+{"ts": 1786995940.027494, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995940.0305002, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.41713987285776494, "market_prob": 0.0, "edge": 0.41713987285776494, "price_cents": 1, "count": 5}
+{"ts": 1786995945.9511971, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995945.954341, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.44988986848984214, "market_prob": 0.0, "edge": 0.44988986848984214, "price_cents": 1, "count": 5}
+{"ts": 1786995951.8469403, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995951.8504248, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.44971691990803275, "market_prob": 0.0, "edge": 0.44971691990803275, "price_cents": 1, "count": 5}
+{"ts": 1786995959.0414913, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995959.0448608, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.4401764636123997, "market_prob": 0.0, "edge": 0.4401764636123997, "price_cents": 1, "count": 5}
+{"ts": 1786995964.9404721, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786995964.9537933, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "yes", "model_prob": 0.43996677417061825, "market_prob": 0.0, "edge": 0.43996677417061825, "price_cents": 1, "count": 5}
+{"ts": 1786995970.828943, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786996399.005456, "event": "open", "ticker": "KXBTC15M-26AUG171600-00", "side": "no", "model_prob": 0.8803427397829963, "market_prob": 0.82, "edge": 0.06034273978299631, "price_cents": 83, "count": 5}
+{"ts": 1786996791.7361498, "event": "close", "ticker": "KXBTC15M-26AUG171600-00", "reason": "time_exit", "exit_price_cents": 55, "pnl_cents": -140}
+{"ts": 1786996803.5489419, "event": "open", "ticker": "KXBTC15M-26AUG171615-15", "side": "yes", "model_prob": 0.43915793689228466, "market_prob": 0.0, "edge": 0.43915793689228466, "price_cents": 1, "count": 5}
+{"ts": 1786996809.4375906, "event": "close", "ticker": "KXBTC15M-26AUG171615-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786996809.4414506, "event": "open", "ticker": "KXBTC15M-26AUG171615-15", "side": "yes", "model_prob": 0.43895854352757424, "market_prob": 0.0, "edge": 0.43895854352757424, "price_cents": 1, "count": 5}
+{"ts": 1786996815.3571036, "event": "close", "ticker": "KXBTC15M-26AUG171615-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786996815.360314, "event": "open", "ticker": "KXBTC15M-26AUG171615-15", "side": "yes", "model_prob": 0.4378592196737027, "market_prob": 0.0, "edge": 0.4378592196737027, "price_cents": 1, "count": 5}
+{"ts": 1786996821.2699225, "event": "close", "ticker": "KXBTC15M-26AUG171615-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786996821.27332, "event": "open", "ticker": "KXBTC15M-26AUG171615-15", "side": "yes", "model_prob": 0.4253344616005475, "market_prob": 0.0, "edge": 0.4253344616005475, "price_cents": 1, "count": 5}
+{"ts": 1786996827.1709113, "event": "close", "ticker": "KXBTC15M-26AUG171615-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997708.6110237, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5217258945051082, "market_prob": 0.0, "edge": 0.5217258945051082, "price_cents": 1, "count": 5}
+{"ts": 1786997714.2663653, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997714.268673, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5217457897712451, "market_prob": 0.0, "edge": 0.5217457897712451, "price_cents": 1, "count": 5}
+{"ts": 1786997719.8905096, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997719.8928475, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.548293422742579, "market_prob": 0.0, "edge": 0.548293422742579, "price_cents": 1, "count": 5}
+{"ts": 1786997725.5360937, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997725.537098, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5484257227967027, "market_prob": 0.0, "edge": 0.5484257227967027, "price_cents": 1, "count": 5}
+{"ts": 1786997731.1988194, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997731.2008386, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5485825028042545, "market_prob": 0.0, "edge": 0.5485825028042545, "price_cents": 1, "count": 5}
+{"ts": 1786997736.8175752, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997736.8195798, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4861528928982998, "market_prob": 0.0, "edge": 0.4861528928982998, "price_cents": 1, "count": 5}
+{"ts": 1786997742.4500372, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997742.4520605, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.43991056288331465, "market_prob": 0.0, "edge": 0.43991056288331465, "price_cents": 1, "count": 5}
+{"ts": 1786997748.081666, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997748.0857866, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4399026079783761, "market_prob": 0.0, "edge": 0.4399026079783761, "price_cents": 1, "count": 5}
+{"ts": 1786997753.700163, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997753.701168, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4397049684471078, "market_prob": 0.0, "edge": 0.4397049684471078, "price_cents": 1, "count": 5}
+{"ts": 1786997759.3099282, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997759.3110137, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4231203034163177, "market_prob": 0.0, "edge": 0.4231203034163177, "price_cents": 1, "count": 5}
+{"ts": 1786997764.9395955, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997764.9405987, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.42401061354237896, "market_prob": 0.0, "edge": 0.42401061354237896, "price_cents": 1, "count": 5}
+{"ts": 1786997770.5233915, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997770.5244105, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.423510695081054, "market_prob": 0.0, "edge": 0.423510695081054, "price_cents": 1, "count": 5}
+{"ts": 1786997776.1964798, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997776.198543, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4339245119504368, "market_prob": 0.0, "edge": 0.4339245119504368, "price_cents": 1, "count": 5}
+{"ts": 1786997781.8930116, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997781.894198, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.43370420196253845, "market_prob": 0.0, "edge": 0.43370420196253845, "price_cents": 1, "count": 5}
+{"ts": 1786997787.5543313, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997787.5553544, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4500744395392138, "market_prob": 0.0, "edge": 0.4500744395392138, "price_cents": 1, "count": 5}
+{"ts": 1786997793.2435758, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997793.245806, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.449631321298178, "market_prob": 0.0, "edge": 0.449631321298178, "price_cents": 1, "count": 5}
+{"ts": 1786997798.851882, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997798.8528967, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5086924832307228, "market_prob": 0.0, "edge": 0.5086924832307228, "price_cents": 1, "count": 5}
+{"ts": 1786997804.5546389, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997804.5556426, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5086922550354773, "market_prob": 0.0, "edge": 0.5086922550354773, "price_cents": 1, "count": 5}
+{"ts": 1786997810.1767828, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997810.1777885, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5087231320521122, "market_prob": 0.0, "edge": 0.5087231320521122, "price_cents": 1, "count": 5}
+{"ts": 1786997815.79551, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997815.7977114, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5087543223976762, "market_prob": 0.0, "edge": 0.5087543223976762, "price_cents": 1, "count": 5}
+{"ts": 1786997821.414721, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997821.415736, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5087858504759659, "market_prob": 0.0, "edge": 0.5087858504759659, "price_cents": 1, "count": 5}
+{"ts": 1786997827.0823865, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997827.084439, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5012801744421819, "market_prob": 0.0, "edge": 0.5012801744421819, "price_cents": 1, "count": 5}
+{"ts": 1786997832.7272735, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997832.7293143, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5500587113263256, "market_prob": 0.0, "edge": 0.5500587113263256, "price_cents": 1, "count": 5}
+{"ts": 1786997838.3904684, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997838.3925328, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.550032027934086, "market_prob": 0.0, "edge": 0.550032027934086, "price_cents": 1, "count": 5}
+{"ts": 1786997843.9969761, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997843.998034, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5502162260551972, "market_prob": 0.0, "edge": 0.5502162260551972, "price_cents": 1, "count": 5}
+{"ts": 1786997849.624293, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997849.6253152, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4181900752309703, "market_prob": 0.0, "edge": 0.4181900752309703, "price_cents": 1, "count": 5}
+{"ts": 1786997855.2683408, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997855.2693727, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5492777444420915, "market_prob": 0.0, "edge": 0.5492777444420915, "price_cents": 1, "count": 5}
+{"ts": 1786997860.9341817, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997860.935206, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4175607959599397, "market_prob": 0.0, "edge": 0.4175607959599397, "price_cents": 1, "count": 5}
+{"ts": 1786997866.5720289, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997866.5740418, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.41724911519736485, "market_prob": 0.0, "edge": 0.41724911519736485, "price_cents": 1, "count": 5}
+{"ts": 1786997872.2218554, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997872.2239704, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4181275360410782, "market_prob": 0.0, "edge": 0.4181275360410782, "price_cents": 1, "count": 5}
+{"ts": 1786997877.865997, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997877.868075, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4859519632586076, "market_prob": 0.0, "edge": 0.4859519632586076, "price_cents": 1, "count": 5}
+{"ts": 1786997883.4781773, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997883.4791815, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5214343028970518, "market_prob": 0.0, "edge": 0.5214343028970518, "price_cents": 1, "count": 5}
+{"ts": 1786997889.101451, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997889.1024566, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5215188277794955, "market_prob": 0.0, "edge": 0.5215188277794955, "price_cents": 1, "count": 5}
+{"ts": 1786997894.8012815, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997894.8022983, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5216055690250645, "market_prob": 0.0, "edge": 0.5216055690250645, "price_cents": 1, "count": 5}
+{"ts": 1786997900.43169, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997900.4327133, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5315838064380878, "market_prob": 0.0, "edge": 0.5315838064380878, "price_cents": 1, "count": 5}
+{"ts": 1786997906.065601, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997906.0666049, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5317108466473759, "market_prob": 0.0, "edge": 0.5317108466473759, "price_cents": 1, "count": 5}
+{"ts": 1786997912.1871939, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997912.1915293, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5318513807369848, "market_prob": 0.0, "edge": 0.5318513807369848, "price_cents": 1, "count": 5}
+{"ts": 1786997917.8371997, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997917.8394573, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.48297269759706507, "market_prob": 0.0, "edge": 0.48297269759706507, "price_cents": 1, "count": 5}
+{"ts": 1786997923.5053785, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997923.506401, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4829015578953879, "market_prob": 0.0, "edge": 0.4829015578953879, "price_cents": 1, "count": 5}
+{"ts": 1786997929.1490252, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997929.1500404, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.48282394651226024, "market_prob": 0.0, "edge": 0.48282394651226024, "price_cents": 1, "count": 5}
+{"ts": 1786997934.8493989, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997934.8514128, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4933114689310335, "market_prob": 0.0, "edge": 0.4933114689310335, "price_cents": 1, "count": 5}
+{"ts": 1786997940.4802074, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997940.4816031, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5072231407343322, "market_prob": 0.0, "edge": 0.5072231407343322, "price_cents": 1, "count": 5}
+{"ts": 1786997946.122788, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997946.1238046, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5129186502057582, "market_prob": 0.0, "edge": 0.5129186502057582, "price_cents": 1, "count": 5}
+{"ts": 1786997951.8307617, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997951.831789, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5073271441363391, "market_prob": 0.0, "edge": 0.5073271441363391, "price_cents": 1, "count": 5}
+{"ts": 1786997957.454334, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997957.4563687, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5131054152649022, "market_prob": 0.0, "edge": 0.5131054152649022, "price_cents": 1, "count": 5}
+{"ts": 1786997963.0986185, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997963.1008914, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5102834093091649, "market_prob": 0.0, "edge": 0.5102834093091649, "price_cents": 1, "count": 5}
+{"ts": 1786997968.7062578, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997968.707445, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.49643940694898797, "market_prob": 0.0, "edge": 0.49643940694898797, "price_cents": 1, "count": 5}
+{"ts": 1786997974.336471, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997974.3384924, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.510399775390397, "market_prob": 0.0, "edge": 0.510399775390397, "price_cents": 1, "count": 5}
+{"ts": 1786997979.969889, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997979.971917, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5104469025291124, "market_prob": 0.0, "edge": 0.5104469025291124, "price_cents": 1, "count": 5}
+{"ts": 1786997985.6055822, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997985.6066024, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.46931302306147576, "market_prob": 0.0, "edge": 0.46931302306147576, "price_cents": 1, "count": 5}
+{"ts": 1786997991.2588403, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997991.2608798, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.46917114287980033, "market_prob": 0.0, "edge": 0.46917114287980033, "price_cents": 1, "count": 5}
+{"ts": 1786997996.9060168, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786997996.9070249, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.46923509759506704, "market_prob": 0.0, "edge": 0.46923509759506704, "price_cents": 1, "count": 5}
+{"ts": 1786998002.5305843, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998002.5327902, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.48247464185695355, "market_prob": 0.0, "edge": 0.48247464185695355, "price_cents": 1, "count": 5}
+{"ts": 1786998008.1416862, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998008.1427195, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.49312243082875984, "market_prob": 0.0, "edge": 0.49312243082875984, "price_cents": 1, "count": 5}
+{"ts": 1786998013.7622173, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998013.763239, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4822938636757743, "market_prob": 0.0, "edge": 0.4822938636757743, "price_cents": 1, "count": 5}
+{"ts": 1786998019.4404998, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998019.4415107, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.49783681919401546, "market_prob": 0.0, "edge": 0.49783681919401546, "price_cents": 1, "count": 5}
+{"ts": 1786998025.098572, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998025.10065, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.4978262004495251, "market_prob": 0.0, "edge": 0.4978262004495251, "price_cents": 1, "count": 5}
+{"ts": 1786998030.7227173, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998030.7237363, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5753803638634998, "market_prob": 0.0, "edge": 0.5753803638634998, "price_cents": 1, "count": 5}
+{"ts": 1786998036.3596375, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998036.3606975, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.5757518253607471, "market_prob": 0.0, "edge": 0.5757518253607471, "price_cents": 1, "count": 5}
+{"ts": 1786998042.0014722, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998042.0034978, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.63128609349017, "market_prob": 0.0, "edge": 0.63128609349017, "price_cents": 1, "count": 5}
+{"ts": 1786998047.6440818, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998047.6460967, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.6319300976994777, "market_prob": 0.0, "edge": 0.6319300976994777, "price_cents": 1, "count": 5}
+{"ts": 1786998053.2936604, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998053.295661, "event": "open", "ticker": "KXBTC15M-26AUG171630-30", "side": "yes", "model_prob": 0.6479100090172177, "market_prob": 0.0, "edge": 0.6479100090172177, "price_cents": 1, "count": 5}
+{"ts": 1786998058.951684, "event": "close", "ticker": "KXBTC15M-26AUG171630-30", "reason": "take_profit", "exit_price_cents": 57, "pnl_cents": 280}
+{"ts": 1786998605.1877966, "event": "open", "ticker": "KXBTC15M-26AUG171645-45", "side": "yes", "model_prob": 0.5100028016009835, "market_prob": 0.0, "edge": 0.5100028016009835, "price_cents": 1, "count": 5}
+{"ts": 1786998610.8539023, "event": "close", "ticker": "KXBTC15M-26AUG171645-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998610.8553526, "event": "open", "ticker": "KXBTC15M-26AUG171645-45", "side": "yes", "model_prob": 0.5100346297572064, "market_prob": 0.0, "edge": 0.5100346297572064, "price_cents": 1, "count": 5}
+{"ts": 1786998616.5529094, "event": "close", "ticker": "KXBTC15M-26AUG171645-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998616.553921, "event": "open", "ticker": "KXBTC15M-26AUG171645-45", "side": "yes", "model_prob": 0.5005583638165376, "market_prob": 0.0, "edge": 0.5005583638165376, "price_cents": 1, "count": 5}
+{"ts": 1786998622.1552238, "event": "close", "ticker": "KXBTC15M-26AUG171645-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998622.1562276, "event": "open", "ticker": "KXBTC15M-26AUG171645-45", "side": "yes", "model_prob": 0.4604904666423247, "market_prob": 0.0, "edge": 0.4604904666423247, "price_cents": 1, "count": 5}
+{"ts": 1786998627.7797875, "event": "close", "ticker": "KXBTC15M-26AUG171645-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998627.7809777, "event": "open", "ticker": "KXBTC15M-26AUG171645-45", "side": "yes", "model_prob": 0.4674320855704954, "market_prob": 0.0, "edge": 0.4674320855704954, "price_cents": 1, "count": 5}
+{"ts": 1786998633.381683, "event": "close", "ticker": "KXBTC15M-26AUG171645-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786998633.3826911, "event": "open", "ticker": "KXBTC15M-26AUG171645-45", "side": "yes", "model_prob": 0.46732723240390156, "market_prob": 0.0, "edge": 0.46732723240390156, "price_cents": 1, "count": 5}
+{"ts": 1786998639.0122035, "event": "close", "ticker": "KXBTC15M-26AUG171645-45", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999505.4388716, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.5001001360844504, "market_prob": 0.0, "edge": 0.5001001360844504, "price_cents": 1, "count": 5}
+{"ts": 1786999511.0566666, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999511.0576806, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.5001004520550235, "market_prob": 0.0, "edge": 0.5001004520550235, "price_cents": 1, "count": 5}
+{"ts": 1786999516.6559076, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999516.6579213, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.5001008384192817, "market_prob": 0.0, "edge": 0.5001008384192817, "price_cents": 1, "count": 5}
+{"ts": 1786999522.2959607, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999522.297395, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.5001011619151589, "market_prob": 0.0, "edge": 0.5001011619151589, "price_cents": 1, "count": 5}
+{"ts": 1786999527.931574, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999527.9338052, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.5001021021740358, "market_prob": 0.0, "edge": 0.5001021021740358, "price_cents": 1, "count": 5}
+{"ts": 1786999533.6326323, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999533.633667, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.5001024375616904, "market_prob": 0.0, "edge": 0.5001024375616904, "price_cents": 1, "count": 5}
+{"ts": 1786999539.222603, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999539.2247663, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.4644239299015598, "market_prob": 0.0, "edge": 0.4644239299015598, "price_cents": 1, "count": 5}
+{"ts": 1786999544.8543305, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999544.8563535, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.4194050059428036, "market_prob": 0.0, "edge": 0.4194050059428036, "price_cents": 1, "count": 5}
+{"ts": 1786999550.4372876, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999550.4383378, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.4345008402741656, "market_prob": 0.0, "edge": 0.4345008402741656, "price_cents": 1, "count": 5}
+{"ts": 1786999556.0771768, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999556.078378, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.4342843187874429, "market_prob": 0.0, "edge": 0.4342843187874429, "price_cents": 1, "count": 5}
+{"ts": 1786999561.7454329, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999561.7464476, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.4340652959917263, "market_prob": 0.0, "edge": 0.4340652959917263, "price_cents": 1, "count": 5}
+{"ts": 1786999567.3693662, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999567.371491, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.48611258833002846, "market_prob": 0.0, "edge": 0.48611258833002846, "price_cents": 1, "count": 5}
+{"ts": 1786999572.9983656, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999572.9998226, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.48611882535797807, "market_prob": 0.0, "edge": 0.48611882535797807, "price_cents": 1, "count": 5}
+{"ts": 1786999581.1647115, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999581.1669679, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.4965380525515476, "market_prob": 0.0, "edge": 0.4965380525515476, "price_cents": 1, "count": 5}
+{"ts": 1786999586.7990606, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999586.8011205, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.49652565886530403, "market_prob": 0.0, "edge": 0.49652565886530403, "price_cents": 1, "count": 5}
+{"ts": 1786999592.407933, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1786999592.4100316, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "yes", "model_prob": 0.49651361493432217, "market_prob": 0.42, "edge": 0.07651361493432218, "price_cents": 43, "count": 5}
+{"ts": 1786999598.0344348, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -215}
+{"ts": 1786999946.9695168, "event": "open", "ticker": "KXBTC15M-26AUG171700-00", "side": "no", "model_prob": 0.9339800757682246, "market_prob": 0.86, "edge": 0.07398007576822463, "price_cents": 87, "count": 5}
+{"ts": 1787000391.786059, "event": "close", "ticker": "KXBTC15M-26AUG171700-00", "reason": "time_exit", "exit_price_cents": 58, "pnl_cents": -145}
+{"ts": 1787000408.693713, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.4315659822985548, "market_prob": 0.0, "edge": 0.4315659822985548, "price_cents": 1, "count": 5}
+{"ts": 1787000414.3424232, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000414.34346, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.43135021390376477, "market_prob": 0.0, "edge": 0.43135021390376477, "price_cents": 1, "count": 5}
+{"ts": 1787000419.9348347, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000419.9358387, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.4431965148519141, "market_prob": 0.0, "edge": 0.4431965148519141, "price_cents": 1, "count": 5}
+{"ts": 1787000425.5473895, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000425.5484524, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.45004772722414316, "market_prob": 0.0, "edge": 0.45004772722414316, "price_cents": 1, "count": 5}
+{"ts": 1787000431.1839228, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000431.1862895, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.44987756382950916, "market_prob": 0.0, "edge": 0.44987756382950916, "price_cents": 1, "count": 5}
+{"ts": 1787000436.8152404, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000436.81628, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.45926536003855517, "market_prob": 0.0, "edge": 0.45926536003855517, "price_cents": 1, "count": 5}
+{"ts": 1787000442.4438598, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000442.4451144, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.45842590451747967, "market_prob": 0.0, "edge": 0.45842590451747967, "price_cents": 1, "count": 5}
+{"ts": 1787000448.118979, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000448.1210723, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.48280802530651645, "market_prob": 0.0, "edge": 0.48280802530651645, "price_cents": 1, "count": 5}
+{"ts": 1787000453.745242, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000453.7462947, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.48276917675919395, "market_prob": 0.0, "edge": 0.48276917675919395, "price_cents": 1, "count": 5}
+{"ts": 1787000459.3575404, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000459.358545, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.49949137261423876, "market_prob": 0.0, "edge": 0.49949137261423876, "price_cents": 1, "count": 5}
+{"ts": 1787000464.9617736, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000464.9640672, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.49948935905872727, "market_prob": 0.0, "edge": 0.49948935905872727, "price_cents": 1, "count": 5}
+{"ts": 1787000470.567184, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000470.5685256, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5041382294411525, "market_prob": 0.0, "edge": 0.5041382294411525, "price_cents": 1, "count": 5}
+{"ts": 1787000476.1940749, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000476.1950748, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.534102353600697, "market_prob": 0.0, "edge": 0.534102353600697, "price_cents": 1, "count": 5}
+{"ts": 1787000481.7882907, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000481.7904718, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5342184540754855, "market_prob": 0.0, "edge": 0.5342184540754855, "price_cents": 1, "count": 5}
+{"ts": 1787000487.4353364, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000487.436355, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5343368483547679, "market_prob": 0.0, "edge": 0.5343368483547679, "price_cents": 1, "count": 5}
+{"ts": 1787000493.0704374, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000493.0716958, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5347800864881667, "market_prob": 0.0, "edge": 0.5347800864881667, "price_cents": 1, "count": 5}
+{"ts": 1787000498.6821015, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000498.6831493, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5482706914836761, "market_prob": 0.0, "edge": 0.5482706914836761, "price_cents": 1, "count": 5}
+{"ts": 1787000504.3286016, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000504.3296182, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5484408237371745, "market_prob": 0.0, "edge": 0.5484408237371745, "price_cents": 1, "count": 5}
+{"ts": 1787000509.9305658, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000509.9315822, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5512994625888197, "market_prob": 0.0, "edge": 0.5512994625888197, "price_cents": 1, "count": 5}
+{"ts": 1787000515.576111, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000515.5781875, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5514827114956593, "market_prob": 0.0, "edge": 0.5514827114956593, "price_cents": 1, "count": 5}
+{"ts": 1787000521.223353, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000521.2245388, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5538120773622364, "market_prob": 0.0, "edge": 0.5538120773622364, "price_cents": 1, "count": 5}
+{"ts": 1787000526.8404799, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000526.8414965, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5905580386747487, "market_prob": 0.0, "edge": 0.5905580386747487, "price_cents": 1, "count": 5}
+{"ts": 1787000532.449143, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -5}
+{"ts": 1787000532.4501805, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "yes", "model_prob": 0.5907154484975933, "market_prob": 0.0, "edge": 0.5907154484975933, "price_cents": 1, "count": 5}
+{"ts": 1787000538.0848773, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "take_profit", "exit_price_cents": 55, "pnl_cents": 270}
+{"ts": 1787000538.08589, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "no", "model_prob": 0.5446844501753261, "market_prob": 0.45, "edge": 0.09468445017532606, "price_cents": 46, "count": 5}
+{"ts": 1787000543.7402716, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -230}
+{"ts": 1787000622.5495973, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "no", "model_prob": 0.5238286638778753, "market_prob": 0.45, "edge": 0.07382866387787529, "price_cents": 46, "count": 5}
+{"ts": 1787000628.1930416, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -230}
+{"ts": 1787000628.1940465, "event": "open", "ticker": "KXBTC15M-26AUG171715-15", "side": "no", "model_prob": 0.5394484061736893, "market_prob": 0.45, "edge": 0.08944840617368927, "price_cents": 46, "count": 5}
+{"ts": 1787000633.8425283, "event": "close", "ticker": "KXBTC15M-26AUG171715-15", "reason": "stop_loss", "exit_price_cents": 0, "pnl_cents": -230}
